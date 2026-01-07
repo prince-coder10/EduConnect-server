@@ -73,7 +73,7 @@ npm run watch
 
 **_Logs in an existing user._**
 
-- Endpoint: `/auth/login`
+- Endpoint: `/auth/user`
 
 - Method: `POST`
 
