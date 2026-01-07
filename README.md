@@ -30,6 +30,8 @@ npm run watch
 
 ### Base URL: `localhost:5500/api`
 
+### Default Client URL: `http://localhost:3000`
+
 ### Authentication Endpoints
 
 1. Register User
